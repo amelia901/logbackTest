@@ -1,0 +1,8 @@
+121  [fr.edf.Main.main()] INFO  fr.edf.Main - Hello World
+94   [fr.edf.Main.main()] INFO  fr.edf.Main - Hello World
+109  [fr.edf.Main.main()] INFO  fr.edf.Main - Hello World
+85   [fr.edf.Main.main()] INFO  fr.edf.Main - Hello World
+80   [fr.edf.Main.main()] INFO  fr.edf.Main - Hello World
+84   [fr.edf.Main.main()] INFO  fr.edf.Main - Hello World
+117  [fr.edf.Main.main()] INFO  fr.edf.Main - Hello World
+102  [fr.edf.Main.main()] INFO  fr.edf.Main - Hello World
